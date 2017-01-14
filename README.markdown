@@ -1,6 +1,7 @@
-# JS Bin
+# JS Bin PHP
 
-JS Bin is an open source collaborative web development debugging tool.
+JS Bin PHP is an open source collaborative web development debugging tool. 
+It is based on the [2.9 version](https://github.com/jsbin/jsbin/tree/v2.9.16) of [JS Bin](https://github.com/jsbin/jsbin)
 
 ## If you use JS Bin locally...
 
